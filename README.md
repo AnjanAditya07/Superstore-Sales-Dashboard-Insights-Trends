@@ -9,11 +9,11 @@ This project presents an interactive Sales Dashboard built to analyze and visual
 
 
 🎯 **Objectives**
-1.Analyze overall sales and profit performance
-2.Identify top-performing regions and segments
-3.Track monthly sales trends
-4.Evaluate shipping efficiency
-5.Provide actionable business insights through visualization
+1. Analyze overall sales and profit performance  
+2. Identify top-performing regions and segments  
+3. Track monthly sales trends  
+4. Evaluate shipping efficiency  
+5. Provide actionable business insights through visualization  
 
 
 📊 **Key Performance Indicators (KPIs)**
