@@ -61,11 +61,11 @@ DAX – Calculations and KPIs
 
 
 📌**Insights**
-1.West region generates the highest sales
-2.Consumer segment contributes the most revenue
-3.Some sub-categories show high sales but low profit
-4.Shipping duration is relatively consistent across regions
-
+1. West region generates the highest sales  
+2. Consumer segment contributes the most revenue  
+3. Some sub-categories show high sales but low profit  
+4. Shipping duration is relatively consistent across regions
+   
 🚀 **Future Improvements**
 Add profit margin analysis
 Include customer segmentation insights
