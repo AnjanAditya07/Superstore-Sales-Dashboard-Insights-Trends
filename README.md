@@ -1,10 +1,11 @@
-<img width="1376" height="745" alt="Screenshot 2026-04-14 120643" src="https://github.com/user-attachments/assets/bec3a5d8-eb7a-4b29-8e44-e63afa05f9e8" />📊 **Superstore Sales Dashboard: Insights & Trends**
+**Superstore Sales Dashboard: Insights & Trends**
 
 📌**Overview**
 This project presents an interactive Sales Dashboard built to analyze and visualize key business metrics from a Superstore dataset. It helps in understanding sales performance, profit trends, customer distribution, and shipping efficiency across different regions and categories.
 
 **Dashboard Overview**
 
+![Dashboard Preview](DASHBOARD.png)
 
 
 🎯 **Objectives**
